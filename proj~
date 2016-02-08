@@ -1,0 +1,4 @@
+#/bin/bash
+bokeh-server --script stock_app.py
+chromium-browser  http://localhost:5006/bokeh/stocks
+
