@@ -78,6 +78,12 @@ URL in a browser:
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 the ui is a fork from bokeh-server example .
 
+extract the app in your home directory
+ 
+for best result have the following packages running in your unix environment
+-anconda distribution python 2.7(should have everything)
+-bokeh-server may need to be added 
+
 have not trained the full list of fortune five hundred companies 
 
 only a few have been tarined and predicted .
