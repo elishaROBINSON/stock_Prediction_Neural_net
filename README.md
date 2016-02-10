@@ -87,7 +87,7 @@ have not trained the full list of fortune five hundred companies
 only a few have been tarined and predicted .
 feel free to train the reset using the algorithm in the ipython notebook testing stuff .
 
-to train the next set of stock modify the lists in stoc_app.py and neural_net_train&store_data.py
+to train the next set of stock modify the lists in stock_app.py and neural_net_train&store_data.py
 execute neural_net_train&store_data.py to predict and sotre reuslts automaticly
 
 have fun and feel free to extend it to your needs 
