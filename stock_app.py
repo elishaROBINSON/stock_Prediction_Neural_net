@@ -153,7 +153,9 @@ class StockApp(VBox):
         return obj
 
     def make_inputs(self):
-
+#
+#please add any other stocks you have downloaded using stock_data.py 
+#
         self.ticker1_select = Select(
             name='ticker1',
             value='Stock',

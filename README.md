@@ -1,5 +1,3 @@
-This example shows how to create a simple applet in Bokeh, which can
-be viewed in two different ways:
 
 * running directly on a bokeh-server
 * embedded into a separate Flask application
@@ -87,7 +85,10 @@ for best result have the following packages running in your unix environment
 have not trained the full list of fortune five hundred companies 
 
 only a few have been tarined and predicted .
-feel free to train the rest using the algorith in the ipython notebook testing stuff .
+feel free to train the reset using the algorithm in the ipython notebook testing stuff .
+
+to train the next set of stock modify the lists in stoc_app.py and neural_net_train&store_data.py
+execute neural_net_train&store_data.py to predict and sotre reuslts automaticly
 
 have fun and feel free to extend it to your needs 
 
